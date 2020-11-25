@@ -1,9 +1,6 @@
-print("PGCD")
-a = input("Enter the first number : ")
-b = input("Enter the second number : ")
-
-a = int(a)
-b = int(b)
+print("GCD")
+a = int(input("Enter the first number : "))
+b = int(input("Enter the second number : "))
 
 while b != 0:
     r = a % b
