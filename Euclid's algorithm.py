@@ -6,4 +6,4 @@ while b != 0:
     r = a % b
     a = b
     b = r
-print("PGCD : ", a)
+print("GCD : ", a)
