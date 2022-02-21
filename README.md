@@ -17,4 +17,4 @@ dvdLogo.png : PNG file representing the logo of a DVD, used by the algorithm "DV
 
 data/icone.png : PNG file representif the logo of profile_picture.cpp
 
-https://giphy.com/embed/swKD5ZAFaCCE0JcHu6
+https://user-images.githubusercontent.com/45128700/154873352-7daf4785-d4b2-4969-aa7f-3a1603c9472a.mp4
