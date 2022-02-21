@@ -11,4 +11,8 @@ collisionMouseBox.cpp : Algorithm detecting collisions of the mouse on a box loc
 
 DVDScreensaver.c : Algorithm simulating a screen saver. It gets a .png file and it will modify the pixels of that file to vary the color : C with CSFML-2.5.1 | Test on windows with the MSVC and Mingw64 compiler
 
+profile_picture.cpp : Program that displays a sinusoidal function, and adds color and animation. : C++20 with SFML-2.5.1 (Tested with visual studio 2022)
+
 dvdLogo.png : PNG file representing the logo of a DVD, used by the algorithm "DVDScreensaver.c"
+
+data/icone.png : PNG file representif the logo of profile_picture.cpp
