@@ -16,3 +16,5 @@ profile_picture.cpp : Program that displays a sinusoidal function, and adds colo
 dvdLogo.png : PNG file representing the logo of a DVD, used by the algorithm "DVDScreensaver.c"
 
 data/icone.png : PNG file representif the logo of profile_picture.cpp
+
+<iframe src="https://giphy.com/embed/swKD5ZAFaCCE0JcHu6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/swKD5ZAFaCCE0JcHu6">via GIPHY</a></p>
