@@ -1,12 +1,18 @@
-﻿using System;
+﻿using piBenford;
+using System;
 
-namespace BenfordPi
+namespace piBenford
 {
-    class program
-    {
-        static public void Main(String[] args)
-        {
-            Console.WriteLine("Salut pepito !");
-        }
-    }
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			Console.WriteLine("PiBenford by Skalefou\nOccurrence of digits in the number Pi");
+			GestionFile file = new GestionFile();
+			char f;
+			//while()
+				f = Convert.ToChar(file.read());
+		}
+	}
+
 }
